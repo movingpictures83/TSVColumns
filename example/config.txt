@@ -1,0 +1,2 @@
+Prefix plugins/TSVColumns/example
+Plugin TSVColumns inputfile parameters.txt outputfile out.tsv
